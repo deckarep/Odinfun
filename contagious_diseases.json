@@ -1,0 +1,70 @@
+{
+  "name": "Contagious Diseases",
+  "class": "yada",
+  "date": "yada",
+  "decks": [
+    {
+      "subject": "5ths Disease (slapped cheek disease)",
+      "transmission": "droplet/contact",
+      "microbe_form": "parvo virus",
+      "signs_symptoms": "rash/ upper respiratory infection/ flu-like symptoms/ sick 24 days",
+      "nursing_interventions": "supportive care",
+      "complications": "anemic",
+      "vaccine_available": "no"
+    },
+    {
+      "subject": "Measles (Rubeola)",
+      "transmission": "airborne",
+      "microbe_form": "virus",
+      "signs_symptoms": "fever/ rash/ malaise/ anorexia/ achy/ conjunctivitis/ cough/ coryza/ spots",
+      "nursing_interventions": "supportive care/ isolation",
+      "complications": "pneumonia",
+      "vaccine_available": "yes"
+    },
+    {
+      "subject": "Varicella (Chicken Pox)",
+      "transmission": "airborne",
+      "microbe_form": "virus",
+      "signs_symptoms": "itchy/ rash/ malaise/ achy/ anorexia",
+      "nursing_interventions": "supportive care/ isolation/ antivirals",
+      "complications": "pneumonia/ cellulitis",
+      "vaccine_available": "yes"
+    },
+    {
+      "subject": "Mumps",
+      "transmission": "droplet/ contact",
+      "microbe_form": "virus",
+      "signs_symptoms": "orchitis/ headache/ gland swelling/ earache/ fever/ malaise/ anorexia/ swollen lymph nodes",
+      "nursing_interventions": "supportive care/ hot or cold press",
+      "complications": "meningitis/ myocarditis/ deafness",
+      "vaccine_available": "yes"
+    },
+    {
+      "subject": "Rubella (German Measles)",
+      "transmission": "droplet/ contact",
+      "microbe_form": "virus",
+      "signs_symptoms": "rash/ swollen lymph nodes/ arthritic joint pain/ cough/ fever/ upper respiratory infection",
+      "nursing_interventions":"supportive care/ isolation (from pregnant)",
+      "complications": "encephalitis",
+      "vaccine_available": "yes"
+    },
+    {
+      "subject": "Pertussis",
+      "transmission": "droplet/ contact",
+      "microbe_form": "bacterial",
+      "signs_symptoms": "cough whooping/ fever/ cyanosis/ upper respiratory infection",
+      "nursing_interventions": "antibiotics macrolides (patient + family)/ oxygen (in hospital)/ fluids + humidity/ suction/ rest",
+      "complications": "seizures (hypoxia)/ ear infection/ pneumonia + atelectasis",
+      "vaccine_available": "yes"
+    },
+    {
+      "subject": "Roseola (6ths disease)",
+      "transmission": "droplet/ contact",
+      "microbe_form": "virus (herpes)",
+      "signs_symptoms": "rash/ fever (no other symptoms)",
+      "nursing_interventions": "supportive care/ seizure precautions",
+      "complications": "seizures (when fever spikes fast)",
+      "vaccine_available": "no"
+    }
+  ]
+}
